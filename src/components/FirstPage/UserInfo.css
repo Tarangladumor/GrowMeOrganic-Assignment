@@ -1,0 +1,16 @@
+.form_page{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.user_form{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    border: 2px solid rgb(178, 174, 174);
+    padding: 30px 50px;
+    border-radius: 15px;
+}

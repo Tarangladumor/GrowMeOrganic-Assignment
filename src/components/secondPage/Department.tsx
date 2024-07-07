@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Checkbox, Collapse, List, ListItem, ListItemIcon, ListItemText, IconButton, Box } from '@mui/material';
 import { ExpandLess, ExpandMore } from '@mui/icons-material';
 
